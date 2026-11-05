@@ -2,6 +2,7 @@
     "name": "jordanpartridge/filament-skeleton",
     "type": "project",
     "description": "The skeleton application for the Laravel framework.",
+    "homepage": "https://github.com/shadetheory/filament-skeleton",
     "keywords": ["laravel", "framework"],
     "license": "MIT",
     "require": {
